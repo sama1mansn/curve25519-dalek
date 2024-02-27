@@ -5,7 +5,7 @@ members = [
     "ed25519-dalek",
     "x25519-dalek"
 ]
-resolver = "2"
+resolver = "4"
 
 [profile.dev]
 opt-level = 2
